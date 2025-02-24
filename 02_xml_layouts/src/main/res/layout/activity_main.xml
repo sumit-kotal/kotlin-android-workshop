@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:hint="Type here"
         android:padding="8dp"
-        android:marginBottom="12dp"/>
+        android:layout_marginBottom="12dp"/>
 
     <Button
         android:id="@+id/button"

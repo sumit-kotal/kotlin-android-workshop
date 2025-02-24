@@ -4,7 +4,7 @@
     <application
         android:allowBackup="true"
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
-        <activity android:name="com.assignment.a03_user_interactions.MainActivity"
+        <activity android:name="com.example.workshop.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
