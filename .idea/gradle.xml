@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01_helloworld" />
+            <option value="$PROJECT_DIR$/02_xml_layouts" />
+            <option value="$PROJECT_DIR$/03_user_interactions" />
+            <option value="$PROJECT_DIR$/04_navigation" />
+            <option value="$PROJECT_DIR$/05_data_storage" />
+            <option value="$PROJECT_DIR$/06_recyclerview" />
+            <option value="$PROJECT_DIR$/07_images_camera" />
+            <option value="$PROJECT_DIR$/08_api_integration" />
+            <option value="$PROJECT_DIR$/09_location_services" />
+            <option value="$PROJECT_DIR$/10_final_project" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

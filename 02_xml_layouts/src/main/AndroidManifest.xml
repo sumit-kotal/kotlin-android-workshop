@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinAndroidWorkshop">
         <activity
-            android:name="com.assignment.a02_xml_layouts.MainActivity2"
+            android:name="com.assignment.a02_xml_layouts.MainActivity"
             android:exported="true">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
